@@ -1,0 +1,16 @@
+[
+    {
+        "id": "d587ecb4-e590-4de3-9cb4-2c6b87f1ba60",
+        "patient_id": "b5d4820c-7226-4368-9252-7ea9d64ace69",
+        "date": "15.10.2025",
+        "time": "20:30",
+        "status": "cancelled"
+    },
+    {
+        "id": "371af37f-4c1b-402c-a967-5a1063976d5b",
+        "patient_id": "b5d4820c-7226-4368-9252-7ea9d64ace69",
+        "date": "12.12.2012",
+        "time": "12:15",
+        "status": "booked"
+    }
+]

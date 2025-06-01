@@ -1,0 +1,11 @@
+[
+    {
+        "id": "b5d4820c-7226-4368-9252-7ea9d64ace69",
+        "first_name": "john",
+        "last_name": "snow",
+        "age": 25,
+        "gender": "M",
+        "birthday": "15.10.1996",
+        "phone": "12345678"
+    }
+]
