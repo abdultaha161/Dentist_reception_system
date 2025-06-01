@@ -1,6 +1,6 @@
 # 🦷 Dentist Reception System
 
-## This is a small, begineers-level, Command line interface based project which simulate a basic reception system. 
+## This is a small, begineers-level, Command line interface based project which simulate a basic dentist reception system. 
 
 ## Introduction 
 This project is python-based dentist reception system which can be used for a small dentist practice to manage patient and their appointment.It stores all the data in JSON file for easy and non-complicated handling. It has the following key features:
